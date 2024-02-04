@@ -6,11 +6,10 @@ Its a visually stunning Beamer template designed to enhance the aesthetics of pr
 ## Screenshots
 
 <div style = "display = "grid"">
-<img src = "Screenshot (83).png"  alt = "Screenshots">
-<img src = "Screenshot (84).png"  alt = "Screenshots">
-<img src = "Screenshot (85).png"  alt = "Screenshots">
-<img src = "Screenshot (86).png"  alt = "Screenshots">
-
+<img src = "\Screenshots\Screenshot (83).png"  alt = "Screenshots">
+<img src = "\Screenshots\Screenshot (84).png"  alt = "Screenshots">
+<img src = "\Screenshots\Screenshot (85).png"  alt = "Screenshots">
+<img src = "\Screenshots\Screenshot (86).png"  alt = "Screenshots">
 </div>
 
 
