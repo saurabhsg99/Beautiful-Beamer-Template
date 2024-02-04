@@ -2,7 +2,18 @@
 
 Its a visually stunning Beamer template designed to enhance the aesthetics of presentations created with LaTeX. This project aims to provide users with an elegant and modern template having beautiful **Progress Bar** and very **colorful header and footer**.
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+
+## Screenshots
+
+<div style = "display = "grid"">
+<img src = "Screenshot (83).png"  alt = "Screenshots">
+<img src = "Screenshot (84).png"  alt = "Screenshots">
+<img src = "Screenshot (85).png"  alt = "Screenshots">
+<img src = "Screenshot (86).png"  alt = "Screenshots">
+
+</div>
+
+
 ## How to Use
 
 1. **Download the Template:**
