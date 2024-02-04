@@ -5,30 +5,32 @@ Its a visually stunning Beamer template designed to enhance the aesthetics of pr
 
 ## Screenshots
 
-<div style = "display = "grid"">
-<img src = "\Screenshots\Screenshot (83).png"  alt = "Screenshots">
-<img src = "\Screenshots\Screenshot (84).png"  alt = "Screenshots">
-<img src = "\Screenshots\Screenshot (85).png"  alt = "Screenshots">
-<img src = "\Screenshots\Screenshot (86).png"  alt = "Screenshots">
+<div style = "display = "flex" flex-direction = "column"">
+<img src = "\Screenshots\Screenshot (83).png" width ="48%"  alt = "Screenshots">
+<img src = "\Screenshots\Screenshot (84).png" width ="48%" alt = "Screenshots">
+<img src = "\Screenshots\Screenshot (85).png" width ="48%" alt = "Screenshots">
+<img src = "\Screenshots\Screenshot (86).png" width ="48%" alt = "Screenshots">
+<img src = "\Screenshots\Screenshot (87).png" width ="48%" alt = "Screenshots">
+<img src = "\Screenshots\Screenshot (88).png" width ="48%" alt = "Screenshots">
 </div>
 
 
 ## How to Use
 
 1. **Download the Template:**
-   - Clone the repository or download the ZIP file containing the ElegantSlides template.
+   - Clone the repository or download the ZIP file containing the template.
 
 2. **Install Dependencies:**
    - Ensure you have a working LaTeX distribution installed on your system.
 
 3. **Customize Your Presentation:**
-   - Open the `presentation.tex` file in your preferred LaTeX editor.
-   - Customize the title, author, and date.
-   - Choose your preferred color theme by uncommenting the corresponding line.
+   - Open the `Main.tex` file in your preferred LaTeX editor.
+   - Change the title, author, and date.
+   - Choose your preferred background image
    - Populate the slides with your content using the provided slide layouts.
 
 4. **Compile the Document:**
-   - Use your LaTeX editor or a command-line tool to compile the `presentation.tex` file and generate the PDF.
+   - Use your LaTeX editor or a command-line tool to compile the `Main.tex` file and generate the PDF.
 
 5. **View and Share:**
    - Open the generated PDF to view your beautifully crafted presentation.
@@ -36,12 +38,5 @@ Its a visually stunning Beamer template designed to enhance the aesthetics of pr
 
 ## Contribution and Feedback
 
-Contributions to the project are welcome. If you encounter any issues, have suggestions for improvements, or want to contribute to the development of ElegantSlides, please feel free to open an issue or submit a pull request on the GitHub repository.
+Contributions to the project are welcome. If you encounter any issues, have suggestions for improvements, or want to contribute to the development of this template, please feel free to open an issue or submit a pull request on the GitHub repository.
 
-## License
-
-ElegantSlides is released under the [MIT License](LICENSE). Feel free to use, modify, and share this template.
-
----
-
-Feel free to customize this project details document according to the specifics of your ElegantSlides template and any additional features or instructions you want to provide.
