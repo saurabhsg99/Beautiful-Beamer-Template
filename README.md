@@ -2,7 +2,7 @@
 
 Its a visually stunning Beamer template designed to enhance the aesthetics of presentations created with LaTeX. This project aims to provide users with an elegant and modern template having beautiful **Progress Bar** and very **colorful header and footer**.
 
-**Overleaf Link ** 👉 [Beautiful Beamer Template](https://www.overleaf.com/latex/templates/beautiful-beamer-template/dbmqbpypypyt)
+**Overleaf Link** 👉 [Beautiful Beamer Template](https://www.overleaf.com/latex/templates/beautiful-beamer-template/dbmqbpypypyt)
 
 ## Screenshots
 
